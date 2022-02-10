@@ -1,52 +1,38 @@
-![](https://images.cooltext.com/5508510.png)
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
-
-
-![](GHLogoTMP.png)
 
 ### Saludos 👋
 
 
-Gracias por visitar el perfil de 👨‍🏫 ✨ Ricardo Jacuinde ✨.
+Gracias por visitar Mi perfil 🇲🇽 ✨ Ricardo Jacuinde ✨.
 
-Atendiendo estudiantes de PFLC y TecTijuana:
+Un poco sobre mi:
 
-- 🔭 En bachillerato con informática 1 y 2 básica 
-- 🖥 ... y capacitación al trabajo con ITICS
-- 📲 Diversas materias el TecNM para ISC, LI y ITICS
-- 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
-- 💬 Asimismo los docentes del ambas escuelas son invitados para usarlo 
-- 📫 Todo inicia con activarlo via GitHub Starter pack son unos 70 dlls de beca por comprobar con correo institucional 
-- 😄 Y con Github Classroom apoyar al estudiante para ser efectivo en lo requerido para producir resultados al momento y diversificar en los sistemas desktop, cloud computing y embedded 
-- ⚡ Sabias: Soy exalumno de la PFLC y del TEC !
+- 🧑‍🎓 Estudie la carrera tecnica en programacion la preparatoria CECYTE cachanillas.
+- 🖥 Actualmente estudio la carrera de ingenieria en sitemas computacionales en el instituto tecnologico de tijuana.
+- 🗄️ Decidi elegir la especialidad de bases de datos por que SQL fue unos de los primeros lenguajes de programacion estudie.
+- 📄 Tambien me gusta mucho el desarrollo y el desing de paginas web 
+- 🎶 En mis ratos libres me gusta tocar la guitarra y cantar
 
-Licenciamiento para los cursos:
-- Apple University Programm beca de 200 dispositivo iOS
-- Amazon Web Services AWSEducate beca de $50 dlls estudiantes y $200 dlls a 👩‍🏫 docentes 
-- Jetbrains Suite completo de beca $450 dlls
-
-
-Inventario maker para cursos
-- Arduino clasico
-- STM32
-- RaspberryPi 
-- kit de sensores y herramientas soldar
+Lenguajes framework en los que he programado:
+- C#
+- Python
+- Html
+- SQL
+- Django
+- javaScript
+- Spark
 
 
 
-Ejemplo Tablas en MD
+Horario actual
 
-| Sensores 	|  X 	|  Y  	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
+| Hora  | Lunes                            | Martes                           | Miercoles                        | Jueves                           | Viernes                          |
+|-------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| 14:00 | Lenguajes de interfaz            | Lenguajes de interfaz            | Lenguajes de interfaz            | Lenguajes de interfaz            |                                  |
+| 15:00 | Redes de computadoras            | Redes de computadoras            | Redes de computadoras            | Redes de computadoras            | Redes de computadoras            |
+| 16:00 | Lenguajes y automatas            | Lenguajes y automatas            | Lenguajes y automatas            | Lenguajes y automatas            | Lenguajes y automatas            |
+| 17:00 | Programacion logica y funcional  | Programacion logica y funcional  | Programacion logica y funcional  | Programacion logica y funcional  |                                  |
+| 18:00 | Administracion de bases de datos | Administracion de bases de datos | Administracion de bases de datos | Administracion de bases de datos | Administracion de bases de datos |
+| 19:00 | Estadistica y analisis de datos  | Estadistica y analisis de datos  | Estadistica y analisis de datos  | Estadistica y analisis de datos  | Estadistica y analisis de datos  |
 
-Guias:
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-PARA CREAR TABLAS
-Cooltext.com
-
-https://www.tablesgenerator.com/markdown_tables. 
