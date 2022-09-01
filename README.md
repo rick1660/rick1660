@@ -26,13 +26,13 @@ Lenguajes framework en los que he programado:
 
 Horario actual
 
-| Hora  | Lunes                            | Martes                           | Miercoles                        | Jueves                           | Viernes                          |
-|-------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
-| 14:00 | Lenguajes de interfaz            | Lenguajes de interfaz            | Lenguajes de interfaz            | Lenguajes de interfaz            |                                  |
-| 15:00 | Redes de computadoras            | Redes de computadoras            | Redes de computadoras            | Redes de computadoras            | Redes de computadoras            |
-| 16:00 | Lenguajes y automatas            | Lenguajes y automatas            | Lenguajes y automatas            | Lenguajes y automatas            | Lenguajes y automatas            |
-| 17:00 | Programacion logica y funcional  | Programacion logica y funcional  | Programacion logica y funcional  | Programacion logica y funcional  |                                  |
-| 18:00 | Administracion de bases de datos | Administracion de bases de datos | Administracion de bases de datos | Administracion de bases de datos | Administracion de bases de datos |
-| 19:00 | Estadistica y analisis de datos  | Estadistica y analisis de datos  | Estadistica y analisis de datos  | Estadistica y analisis de datos  | Estadistica y analisis de datos  |
+| Hora  |Lunes                   |Martes                  |Miercoles               | Jueves                 | Viernes                |
+|-------|----------------------- |---------------------   |------------------------|------------------------|------------------------|
+| 14:00 |Inteligencia artificial |                        |Inteligencia artificial |                        |                        |
+| 15:00 |Inteligencia artificial |                        |Inteligencia artificial |                        |                        |
+| 16:00 |                        |                        |                        |                        |                        |
+| 17:00 |Sistemas Programables   |Sistemas programables   |Sistemas programables   |Sistemas programables   |                        |          
+| 18:00 |Comutacion y entutamiento|Comutacion y entutamiento|Comutacion y entutamiento|Comutacion y entutamiento|Comutacion y entutamiento|
+| 19:00 |Lenguajes y automatas II|Lenguajes y automatas II|Lenguajes y automatas II|Lenguajes y automatas II|Lenguajes y automatas II|
 
 
